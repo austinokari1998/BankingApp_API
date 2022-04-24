@@ -1,6 +1,6 @@
 # BankingApp_API
 
-![GitHub language count](https://img.shields.io/github/languages/count/austinokari1998/BankingApp_API?color=yellow&label=language&logo=java&style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/austinokari1998/BankingApp_API?color=yellow&label=language&logo=java&style=plastic)  ![GitHub language count](https://img.shields.io/github/languages/count/austinokari1998/BankingApp_API?color=green&label=Database&logo=mySQL&style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/austinokari1998/BankingApp_API?color=green&label=framework&logo=spring&style=plastic)
 ## Framework
 Spring-Boot Java 
 ## What does the API do ?
