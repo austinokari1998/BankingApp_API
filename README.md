@@ -11,5 +11,5 @@ Basic CRUD operations a bank account owner performs.Includes..
 - Account Details Display
 ## Security
 The Spring-Boot-Security layer is used for authentication process(_username and password authentication_)
-## Discalimer
+## Disclaimer
 Still learning :sweat_smile: :sweat_smile: :dart::dart:
